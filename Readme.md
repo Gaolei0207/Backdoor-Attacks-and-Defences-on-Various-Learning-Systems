@@ -10,4 +10,14 @@ Motivation of this repository:
 
 Here are some possible evolution directions of backdoor attacks：
 1）Stealthiness
-2)
+2) Persistency
+3) Targeting
+4) Portability
+5) Diversity of consequences
+6) Camouflage
+
+Here are some possible evolution directions of backdoor Defences：
+1）Backdoor prevention
+2) Backdoor avoidance
+3) Backdoor diagnosis
+4) Backdoor erasing
